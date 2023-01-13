@@ -1,8 +1,8 @@
 class Qa < Formula
   desc ""
   homepage ""
-  url "https://github.com/shubh018/qa-cmd/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "ca7d77d4c6da5dcb773b0781871dca18d455facecbae2dcc95b88449181a6c70"
+  url "https://github.com/shubh018/qa-cmd/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "8304c263773b3a9d145ae62ee7330a10bd78438b8e47c88c4b86c969745d5025"
   license ""
 
   def install
