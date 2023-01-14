@@ -8,4 +8,5 @@ class Qa < Formula
   def install
 	bin.install "qa"
   end
+
 end
